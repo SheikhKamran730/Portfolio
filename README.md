@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title> Feroz Ghaffar - Game Developer Portfolio</title>
-  <style>
-   body {
-  background: linear-gradient(to bottom right, #1e1e2f, #0f0f1c);
-  margin: 0;
-  padding: 0;
-  background-image: url('https://www.transparenttextures.com/patterns/dark-mosaic.png');
-  background-color: #0f0f1c;
-  color: white;
-  font-family: 'Segoe UI', sans-serif;
-}
-
-header {
-            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); /* dark blue gradient */
-            padding: 3rem 1rem;
-            text-align: center;
-            border-bottom: 2px solid rgba(0, 255, 255, 0.2);
             box-shadow: 0 4px 20px rgba(0, 255, 255, 0.05);
         }
 
