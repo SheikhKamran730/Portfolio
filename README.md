@@ -1,303 +1,99 @@
-            box-shadow: 0 4px 20px rgba(0, 255, 255, 0.05);
-        }
+<h1 align="center">Hi 👋, I'm Kamran Munir</h1>
+<h3 align="center">🎮 Professional Unity Game Developer | 2D & 3D | Mobile & Desktop</h3>
 
-            header h1 {
-                font-size: 3rem;
-                margin: 0;
-                background: linear-gradient(90deg, #00ffff, #ff00ff);
-                -webkit-background-clip: text;
-                -webkit-text-fill-color: transparent;
-                font-weight: bold;
-                letter-spacing: 1px;
-            }
+---
 
-            header .tagline {
-                font-size: 1.1rem;
-                color: #cccccc;
-                margin-top: 10px;
-                font-style: italic;
-            }
+## 🚀 About Me
 
-            header p {
-                font-size: 1.1rem;
-                margin: 0.5rem 0;
-            }
+- 🎯 3.5+ Years of Professional Unity Development Experience  
+- 📱 Developed Multiple Mobile Games (Android & iOS)  
+- 🖥️ Experience with Desktop PC Builds  
+- ⚡ Strong Focus on Optimization & Performance  
+- 💰 Integrated Monetization (AdMob, AppLovin MAX, IAP)  
+- 🧠 Specialized in Gameplay Systems & Clean Architecture  
 
-        .contact {
-            margin-top: 1rem;
-        }
+---
 
-            .contact a {
-                color: #00f0ff;
-                text-decoration: none;
-                margin: 0 0.5rem;
-            }
+## 🛠️ Tech Stack
 
-        .section {
-            padding: 2rem;
-        }
+### 🎮 Game Development
+- Unity (2D & 3D)
+- C#
+- OOP & Modular Architecture
+- NavMesh AI
+- Raycasting Systems
+- PlayerPrefs Data Systems
+- URP / Built-in Pipeline
 
-            .section h2 {
-                text-align: center;
-                font-size: 1.8rem;
-                margin-bottom: 2rem;
-                padding-bottom: 0.6rem;
-                border-bottom: 2px solid #333;
-                color: #00f0ff;
-            }
+### 📱 Mobile Development
+- Android Build Pipeline
+- iOS (Xcode Integration)
+- App Store & Play Store Publishing
 
-        .games-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 1.5rem;
-        }
+### 🧰 Tools
+- Git & GitHub
+- Visual Studio
+- Blender (Basic)
+- Photoshop
 
-        .game-card {
-            background: linear-gradient(135deg, #3a1c71, #d76d77, #ffaf7b);
-            border-radius: 12px;
-            padding: 12px;
-            margin: 10px;
-            box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
-            transition: transform 0.2s, box-shadow 0.3s ease;
-            text-align: center;
-        }
+---
 
-            .game-card:hover {
-                transform: scale(1.03);
-                box-shadow: 0 0 15px rgba(0, 200, 255, 0.3);
-            }
+## 🎯 Featured Projects
 
-            .game-card img {
-                width: 90px;
-                height: 90px;
-                object-fit: cover;
-                border-radius: 15px;
-            }
+### 🛒 Supermarket Simulation Game
+- AI Customer System with NavMesh
+- Raycast-based Pickup & Drop
+- Unlockable Shelves System
+- Cash & Card Payment Logic
+- Optimized for Mobile Performance
 
-            .game-card h3 {
-                font-size: 1rem;
-                margin: 0.5rem 0;
-                min-height: 2rem;
-            }
+### 🍟 2D Fries Cooking Game
+- Multi-Stage Food Preparation System
+- Sorting, Washing, Peeling & Frying Mechanics
+- Clean Script Separation
+- Modular Game Architecture
 
-        .store-btn {
-            margin-top: 0.5rem;
-            display: inline-block;
-            text-decoration: none;
-            font-weight: bold;
-            border-radius: 10px;
-            overflow: hidden;
-        }
+### 🎡 Fortune Wheel System
+- Ad-Based Spin Logic
+- Free First-Time Spin Feature
+- Reward & Coin System Integration
 
-            .store-btn img {
-                width: 140px;
-                height: auto;
-            }
+---
 
-        header h1, header p, .contact a span {
-            color: white;
-        }
+## 📈 What I Focus On
 
-        .contact a {
-            margin-right: 1rem;
-            text-decoration: none;
-        }
+✔ Clean & Maintainable Code  
+✔ Scalable Systems  
+✔ Smooth UI/UX  
+✔ Monetization-Ready Architecture  
+✔ Performance Optimization  
 
-            .contact a:hover {
-                text-decoration: underline;
-            }
-/* Galaxy Store button tweak (keeps same look on dark bg) */
-.app-store-button {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: rgba(0,0,0,0.45);
-  border-radius: 8px;
-  padding: 6px 10px;
-  color: #fff;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
-  text-decoration: none;
-}
-.app-store-button svg { filter: drop-shadow(0 1px 1px rgba(0,0,0,0.4)); }
+---
 
-.app-store-button img {
-  height: 32px;
-}
-    
-  </style>
-</head>
-<body>
-<header>
-  <h1>Feroz Ghaffar</h1>
-  <p>Unity Game Developer | 1.5+ Year Experience</p>
-  <!-- <p>Working in AdMob, AppLovin Integration & In-App Purchases</p> -->
-  <div class="contact">
-    <a href="mailto:ferozghaffar1856@gmail.com" target="_blank">
-      <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" style="width: 20px; vertical-align: middle; margin-right: 6px;">
-      Email
-    </a>
-    <a href="https://www.linkedin.com/in/ferozghaffar/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 20px; vertical-align: middle; margin-right: 6px;">
-      LinkedIn
-    </a>
-    <a href="https://wa.me/923451486848" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 20px; vertical-align: middle; margin-right: 6px;">
-      WhatsApp
-    </a>
-  </div>
-</header>
+## 🌐 Portfolio
 
-  <section class="section">
-   <h2 style="color: #4deaff;; font-size: 1.8rem; margin-bottom: 1rem; text-shadow: 0 0 10px #4deaff;">📱 iOS Games</h2>
-    <div class="games-grid" id="ios-scratch"></div>
-  </section>
+🔗 https://sheikhkamran730.github.io/Portfolio_Kamran/
 
-  <!-- <section class="section">
-   <h2 style="color: #4deaff;; font-size: 1.8rem; margin-bottom: 1rem; text-shadow: 0 0 10px #4deaff;">🤖 Android Games</h2>
-    <div class="games-grid" id="android-scratch"></div> -->
-    
-</section>
-  <section class="section">
-    <h2 style="color: #4deaff;; font-size: 1.8rem; margin-bottom: 1rem; text-shadow: 0 0 10px #4deaff;">🛠️ Updates on iOS Games</h2>
-    <div class="games-grid" id="ios-updates"></div>
-  </section>
+---
 
-  <section class="section">
-   <h2 style="color: #4deaff;; font-size: 1.8rem; margin-bottom: 1rem; text-shadow: 0 0 10px #4deaff;">🧹 Updates on Android Games</h2>
-    <div class="games-grid" id="android-updates"></div>
-  </section>
+## 📊 GitHub Stats
 
- <script>
- async function fetchIconAndName(url, isIOS, gameObj) {
-  try {
-    if (isIOS) {
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SheikhKamran730&show_icons=true&theme=tokyonight" />
+</p>
 
-     return {
-        icon: gameObj.icon || "",
-        name: gameObj.name || "Untitled Game",
-      };
-  const idMatch = url.match(/id(\d+)/);
-  if (!idMatch) return { icon: "", name: "Untitled Game" };
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhKamran730&layout=compact&theme=tokyonight" />
+</p>
 
-  const id = idMatch[1];
+---
 
-  try {
-    const res = await fetch(`https://itunes.apple.com/lookup?id=${id}&country=pk`);
-    if (!res.ok) throw new Error("Fetch failed");
+## 📫 Contact Me
 
-    const data = await res.json();
-    const result = data.results?.[0];
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: Add your LinkedIn link here
+- 🌍 Portfolio: https://sheikhkamran730.github.io/Portfolio_Kamran/
 
-    return {
-      icon: result?.artworkUrl512 || result?.artworkUrl100 || "",
-      name: result?.trackName || "Untitled Game",
-    };
-  } catch (e) {
-    console.error("iOS lookup failed", e);
-    return { icon: "", name: "Untitled Game" };
-  }
-}
- else {
-      // Use provided values directly for Android
-      return {
-        icon: gameObj.icon || "",
-        name: gameObj.name || "Untitled Game",
-      };
-    }
-  } catch (e) {
-    return { icon: "", name: "Untitled Game" };
-  }
-}
+---
 
-async function renderGames(containerId, games, isIOS) {
-  const container = document.getElementById(containerId);
-  for (let game of games) {
-    const { icon, name } = await fetchIconAndName(game.url, isIOS, game);
-    const card = document.createElement("div");
-    card.className = "game-card";
-
-// Choose badge img based on url
-let badgeImg = '';
-
-if (isIOS) {
-  // iOS App Store badge
-  badgeImg = 'https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg';
-
-} else if (game.url && game.url.includes('amazon.com')) {
-  // Amazon Store → custom button (same as Galaxy logic)
-  badgeImg = '';
-
-} else if (game.url && game.url.includes('galaxystore.samsung.com')) {
-  // Galaxy Store → custom button
-  badgeImg = '';
-
-} else {
-  // Google Play Store badge
-  badgeImg = 'https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg';
-}
-    // build innerHTML; Samsung uses a custom button if badgeImg empty
-    let storeButtonHtml = '';
-    if (badgeImg) {
-      storeButtonHtml = `<a class="store-btn" href="${game.url}" target="_blank">
-                          <img src="${badgeImg}" alt="Store" />
-                        </a>`;
-    }
-    card.innerHTML = `
-      <img src="${icon}" alt="${name}" />
-      <h3>${name}</h3>
-      ${storeButtonHtml}
-    `;
-    container.appendChild(card);
-  }
-}
-   
-  // Keep your original arrays here
-const iosScratch = [
-   {
-    url: "https://apps.apple.com/hu/app/dutyfree-store-manager-sim-3d/id6757306985",
-    name: "DutyFree Store Manager Sim 3D",
-    icon: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/7e/dd/3f7edd85-27f1-0146-5988-5bdaeb292e2e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/400x400ia-75.webp"
-  },
-  {
-    url: "https://apps.apple.com/pk/app/zappwing/id6745960441",
-    name: "ZappWing",
-    icon: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/67/f4/f567f4b3-9c63-578c-c9be-91d81c4589d5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/230x0w.webp"
-  }
-   // aur games yahan add karo (same format)
-];
-
-const iosUpdates = [
-  { 
-    url: "https://apps.apple.com/pk/app/anti-stress-chillpop-game/id6748053126",
-    name: "Anti-Stress ChillPop Game ",
-    icon: "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/00/bc/bb00bccc-4ed7-a20f-a9c3-fabbdd20068c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/400x400ia-75.webp"
-  }
-   // aur games yahan add karo (same format)
-];
-
-const androidScratch = [
-  {
-    name: "Bird Sorting",
-    url: "https://play.google.com/store/apps/details?id=com.gc.bird.sorting.color.game",
-    icon: "https://play-lh.googleusercontent.com/OKj-YaqUgY-ezLiI194F5637XEM0r0bE4NogrDaiA1fpI1DAOZuay9JLtKcyhdOwYQ=w240-h480-rw"
-  }
-   // aur games yahan add karo (same format)
-];
-
- const androidUpdates = [
-   
-  {
-    name: "City Train Driver Game",
-    url: "https://play.google.com/store/apps/details?id=com.gcr.police.car.gangster.chase.game",
-    icon: "https://play-lh.googleusercontent.com/Iz2Tb0-thlSdAzS-AJzoBdVTyoXJ70KIWnkW6JnGR0dbSSbBX4_FLaWyHTARbDQYxyg=w240-h480-rw"
-  }
-    // aur games yahan add karo (same format)
-];
-   
-  renderGames("ios-scratch", iosScratch, true);
-  //renderGames("android-scratch", androidScratch, false);
-  renderGames("ios-updates", iosUpdates, true);
-  renderGames("android-updates", androidUpdates, false);
-</script>    
-</body>
-</html>
+<h3 align="center">🔥 Building Immersive & Optimized Game Experiences</h3>
